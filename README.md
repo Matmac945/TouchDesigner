@@ -12,4 +12,4 @@ Generative art, audio reactive and interactive visuals
 
 © Matias Macias Gomez
 
-Licensed under the [MIT License] (LICENSE).
+Licensed under the [MIT License](LICENSE).
